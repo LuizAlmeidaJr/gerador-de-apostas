@@ -1,7 +1,9 @@
 # 💰 Gerador de Apostas
 
 Programa responsável por gerar apostar aleatórias para os principais jogos das Loterias.
-Você quer gerar números para **MEGA-SENA**, **LOTOFÁCIL**,, **QUINA**, **LOTOMANIA** ou **DUPLA-SENA** e não sabe quais apostar?
+<br>
+
+Você quer gerar números para **MEGA-SENA**, **LOTOFÁCIL**, **QUINA**, **LOTOMANIA** ou **DUPLA-SENA** e não sabe quais apostar?
 Deixe o **GERADOR DE APOSTAS** te inspirar!
 
 ##  Como utilizar?
@@ -9,11 +11,15 @@ Selecione para qual jogo deseja fazer a aposta através do menu. Digite a quanti
 
 <br>
 
-<img align="center" src="images/aposta1.png" alt="Exemplo de Aposta Mega-Sena">
+![Exemplo de Aposta Mega-Sena](/images/aposta1.png)
+
+<br>
 
 Também é possível gerar apostas para outro jogo ou para o mesmo, basta dar sequência no programa.
 
-<img align="center" src="images/aposta2.png" alt="Exemplo de Aposta Lotofácil">
+<br>
+
+![Exemplo de Aposta Lotofácil](/images/aposta2.png)
 
 <br>
 
