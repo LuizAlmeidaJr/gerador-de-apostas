@@ -26,8 +26,6 @@ Também é possível gerar apostas para outro jogo ou para o mesmo, basta dar se
 ## 🛠 Tecnologias
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Icon" width="40">
 
-<br>
-
 ## Autor
 
 <p><img align="center" src="https://avatars.githubusercontent.com/u/92612908?v=4" alt="Luiz Almeida Jr profile photo" width="40" style="border-radius: 50%">
